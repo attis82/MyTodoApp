@@ -14,6 +14,5 @@ class TodoApplication : Application() {
             androidContext(this@TodoApplication)
             modules(appModule)
         }
-
-        }
+    }
 }
